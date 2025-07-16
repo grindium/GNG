@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="./GNG%20–%20whitepaper.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Whitepaper-v1.0-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Whitepaper v1.0"/>
-  </a>
+  <img src="banner.jpg" alt="GNG Banner" width="720"/>
 </p>
 
 # GNG – Grind & Glory
@@ -10,8 +8,11 @@
 
 ---
 
-📜 *Whitepaper:*  
-[📄 Open GNG – Whitepaper (PDF)](./GNG%20–%20whitepaper.pdf)
+<p align="center">
+  <a href="./GNG%20–%20whitepaper.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Whitepaper-v1.0-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Whitepaper v1.0"/>
+  </a>
+</p>
 
 ---
 
