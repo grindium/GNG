@@ -24,23 +24,3 @@ Players complete quests, collect XP, earn gold, unlock chests, upgrade character
 
 ---
 
-🧙 *Classes:*
-
-- *Warrior* – Tanky brute force, gets bonus gold from battles  
-- *Mage* – Spell-based nukes, extra XP gain  
-- *Rogue* – Sneaky crits and higher item drop rate  
-
----
-
-🗝 *Key Commands:*
-
-```text
-/start       – enter the game & choose a class
-/quest       – daily quest with random rewards
-/inventory   – view collected items & boosts
-/shop        – buy chests or boosts
-/reroll      – switch class 
-/fuse        – upgrade items
-/stats       – view your level & progress
-/refer    – invite friends & earn rewards
-and MORE
