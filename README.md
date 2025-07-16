@@ -1,26 +1,42 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grindium/GNG/main/banner.jpg" width="512" alt="GNG Logo">
+  <img src="banner.jpg" alt="GNG Banner" width="720"/>
 </p>
 
-# GNG – Grind & Glory 🎮  
-> Where RNG reigns, fuses explode, and only true grinders earn $GNG.
+# GNG – Grind & Glory
+
+*Telegram pixel RPG where RNG reigns, fuses explode, and only true grinders earn GNG.*
 
 ---
 
-## 📄 [Whitepaper v1.0 (EN)](GNG-whitepaper.pdf)
-
-## 🕹 Game Overview
-*GNG* is a Telegram pixel-text RPG built on the TON blockchain. Players grind quests, fuse items, unlock loot, earn crypto, and reroll fate – one tap at a time.
+📜 *Whitepaper:*  
+[📄 Open GNG – Whitepaper (PDF)](./GNG%20–%20whitepaper.pdf)
 
 ---
 
-### 🧱 Core Features
+🎮 *What is GNG?*
 
-- 🎮 Telegram-based game, no installs needed  
-- 🗡 3 classes: Warrior, Mage, Rogue  
-- 📦 Daily quests, random loot, fuse & upgrades  
-- 🔥 TON blockchain for rerolling, boosts & items
+GNG (Grind & Glory) is a Telegram-based pixel RPG that fuses addictive gameplay with real crypto earning potential via the TON blockchain.
+
+Players complete quests, collect XP, earn gold, unlock chests, upgrade characters, and gain passive income. TON token is used for purchasing boosts, premium features, and rerolling classes.
 
 ---
 
-### 📜 Command
+🧙 *Classes:*
+
+- *Warrior* – Tanky brute force, gets bonus gold from battles  
+- *Mage* – Spell-based nukes, extra XP gain  
+- *Rogue* – Sneaky crits and higher item drop rate  
+
+---
+
+🗝 *Key Commands:*
+
+```text
+/start       – enter the game & choose a class
+/quest       – daily quest with random rewards
+/inventory   – view collected items & boosts
+/shop        – buy chests or boosts
+/reroll      – switch class (costs TON)
+/fuse        – upgrade items
+/stats       – view your level & progress
+/referral    – invite friends & earn rewards
