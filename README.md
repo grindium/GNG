@@ -39,7 +39,8 @@ Players complete quests, collect XP, earn gold, unlock chests, upgrade character
 /quest       – daily quest with random rewards
 /inventory   – view collected items & boosts
 /shop        – buy chests or boosts
-/reroll      – switch class (costs TON)
+/reroll      – switch class 
 /fuse        – upgrade items
 /stats       – view your level & progress
-/referral    – invite friends & earn rewards
+/refer    – invite friends & earn rewards
+and MORE
