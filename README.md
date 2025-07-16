@@ -7,7 +7,7 @@
 
 ---
 
-## 📄 [Whitepaper v1.0 (EN)](./GNG-whitepaper.pdf)
+## 📄 [Whitepaper v1.0 (EN)](GNG-whitepaper.pdf)
 
 ## 🕹 Game Overview
 *GNG* is a Telegram pixel-text RPG built on the TON blockchain. Players grind quests, fuse items, unlock loot, earn crypto, and reroll fate – one tap at a time.
