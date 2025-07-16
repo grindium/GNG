@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/grindium/GNG/main/banner.png" width="512" alt="GNG Logo">
+  <img src="https://raw.githubusercontent.com/grindium/GNG/main/banner.jpg" width="512" alt="GNG Logo">
 </p>
 
 # GNG – Grind & Glory 🎮  
@@ -19,7 +19,6 @@
 - 🎮 Telegram-based game, no installs needed  
 - 🗡 3 classes: Warrior, Mage, Rogue  
 - 📦 Daily quests, random loot, fuse & upgrades  
-- 💰 Earn $GNG tokens via grinding  
 - 🔥 TON blockchain for rerolling, boosts & items
 
 ---
