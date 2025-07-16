@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="banner.jpg" alt="GNG Banner" width="720"/>
+  <a href="./GNG%20–%20whitepaper.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Whitepaper-v1.0-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Whitepaper v1.0"/>
+  </a>
 </p>
 
 # GNG – Grind & Glory
